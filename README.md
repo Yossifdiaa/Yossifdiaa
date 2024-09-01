@@ -26,7 +26,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)&nbsp;
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-05122A?style=flat&logo=rest-api)&nbsp;
 ![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=mvc)&nbsp;
 ![JSON Web Token (JWT)](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=json-web-tokens)&nbsp;
